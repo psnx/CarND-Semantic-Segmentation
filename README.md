@@ -1,4 +1,4 @@
-# Car Nano Degree Program T3P3 Semantic Segmentation
+# Car Nano Degree Program T3P2 Semantic Segmentation
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 _Spoiler alert_
